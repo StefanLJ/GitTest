@@ -8,11 +8,13 @@ Installation is the next section in an effective README. Tell other users how to
 
 ```
 npm install
-npm run dev
+npm start
 ```
 
 ## Building / Releasing
-
+```
+npm run dist
+```
 
 
 ## Usage

@@ -14,7 +14,9 @@ npm run dev
 
 ## Code structure
 The CSS can be found in `example/example`.
+
 The HTML in `example/example/` where there are page templates and modules.
+
 The client javascript entry point is at `client/app.js`.
 
 

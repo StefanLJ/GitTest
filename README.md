@@ -11,6 +11,9 @@ npm install
 npm run dev
 ```
 
+## Building / Releasing
+
+
 
 ## Usage
 The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
@@ -21,11 +24,6 @@ The next section is usage, in which you instruct other people on how to use your
 The CSS can be found in `example/example`.
 
 The HTML in `example/example/` where there are page templates and modules.
-
-
-
-## Building / Releasing
-
 
 
 

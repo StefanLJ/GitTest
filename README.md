@@ -7,8 +7,7 @@ A description of your project follows. A good description is clear, short, and t
 Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
 
 ```
-npm install
-npm start
+npm i && npm start
 ```
 
 ## Building / Releasing
